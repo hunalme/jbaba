@@ -1,0 +1,5 @@
++1. bir intance için max değer girilebilsin
++2. shrink, expand operasyonları
+3. log yazımı
+4. Throttler builder
+5. Assertions

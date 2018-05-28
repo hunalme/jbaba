@@ -1,0 +1,1384 @@
+2018-05-18 20:02:02 DEBUG BasicThrottlerTest:28 - 0 - true
+2018-05-18 20:02:02 DEBUG BasicThrottlerTest:28 - 0 - true
+2018-05-18 20:02:02 DEBUG BasicThrottlerTest:28 - 1 - true
+2018-05-18 20:02:02 DEBUG BasicThrottlerTest:28 - 1 - true
+2018-05-18 20:02:02 DEBUG BasicThrottlerTest:28 - 2 - true
+2018-05-18 20:02:02 DEBUG BasicThrottlerTest:28 - 2 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 3 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 3 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 4 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 4 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 5 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 5 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 6 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 6 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 7 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 7 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 8 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 8 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 9 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 9 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 10 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 10 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 11 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 11 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 12 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 12 - true
+2018-05-18 20:02:03 DEBUG BasicThrottler:48 - before sliding: [13, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:03 DEBUG BasicThrottler:48 - before sliding: [13, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:03 DEBUG BasicThrottler:50 - after sliding: [0, 13, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:03 DEBUG BasicThrottler:50 - after sliding: [0, 13, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 13 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 13 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 14 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 14 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 15 - true
+2018-05-18 20:02:03 DEBUG BasicThrottlerTest:28 - 15 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 16 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 16 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 17 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 17 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 18 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 18 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 19 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 19 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 20 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 20 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 21 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 21 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 22 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 22 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 23 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 23 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 24 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 24 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 25 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 25 - true
+2018-05-18 20:02:04 DEBUG BasicThrottler:48 - before sliding: [13, 13, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:04 DEBUG BasicThrottler:48 - before sliding: [13, 13, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:04 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:04 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 26 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 26 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 27 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 27 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 28 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 28 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 29 - true
+2018-05-18 20:02:04 DEBUG BasicThrottlerTest:28 - 29 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 30 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 30 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 31 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 31 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 32 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 32 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 33 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 33 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 34 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 34 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 35 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 35 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 36 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 36 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 37 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 37 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 38 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 38 - true
+2018-05-18 20:02:05 DEBUG BasicThrottler:48 - before sliding: [13, 13, 13, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:05 DEBUG BasicThrottler:48 - before sliding: [13, 13, 13, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:05 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 13, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:05 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 13, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 39 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 39 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 40 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 40 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 41 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 41 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 42 - true
+2018-05-18 20:02:05 DEBUG BasicThrottlerTest:28 - 42 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 43 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 43 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 44 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 44 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 45 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 45 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 46 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 46 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 47 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 47 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 48 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 48 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 49 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 49 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 50 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 50 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 51 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 51 - true
+2018-05-18 20:02:06 DEBUG BasicThrottler:48 - before sliding: [13, 13, 13, 13, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:06 DEBUG BasicThrottler:48 - before sliding: [13, 13, 13, 13, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:06 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 13, 13, 0, 0, 0, 0, 0]
+2018-05-18 20:02:06 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 13, 13, 0, 0, 0, 0, 0]
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 52 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 52 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 53 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 53 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 54 - true
+2018-05-18 20:02:06 DEBUG BasicThrottlerTest:28 - 54 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 55 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 55 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 56 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 56 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 57 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 57 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 58 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 58 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 59 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 59 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 60 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 60 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 61 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 61 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 62 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 62 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 63 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 63 - true
+2018-05-18 20:02:07 DEBUG BasicThrottler:48 - before sliding: [12, 13, 13, 13, 13, 0, 0, 0, 0, 0]
+2018-05-18 20:02:07 DEBUG BasicThrottler:48 - before sliding: [12, 13, 13, 13, 13, 0, 0, 0, 0, 0]
+2018-05-18 20:02:07 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 13, 13, 13, 0, 0, 0, 0]
+2018-05-18 20:02:07 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 13, 13, 13, 0, 0, 0, 0]
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 64 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 64 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 65 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 65 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 66 - true
+2018-05-18 20:02:07 DEBUG BasicThrottlerTest:28 - 66 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 67 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 67 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 68 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 68 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 69 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 69 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 70 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 70 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 71 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 71 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 72 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 72 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 73 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 73 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 74 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 74 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 75 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 75 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 76 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 76 - true
+2018-05-18 20:02:08 DEBUG BasicThrottler:48 - before sliding: [13, 12, 13, 13, 13, 13, 0, 0, 0, 0]
+2018-05-18 20:02:08 DEBUG BasicThrottler:48 - before sliding: [13, 12, 13, 13, 13, 13, 0, 0, 0, 0]
+2018-05-18 20:02:08 DEBUG BasicThrottler:50 - after sliding: [0, 13, 12, 13, 13, 13, 13, 0, 0, 0]
+2018-05-18 20:02:08 DEBUG BasicThrottler:50 - after sliding: [0, 13, 12, 13, 13, 13, 13, 0, 0, 0]
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 77 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 77 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 78 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 78 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 79 - true
+2018-05-18 20:02:08 DEBUG BasicThrottlerTest:28 - 79 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 80 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 80 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 81 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 81 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 82 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 82 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 83 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 83 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 84 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 84 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 85 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 85 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 86 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 86 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 87 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 87 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 88 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 88 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 89 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 89 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 90 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 90 - true
+2018-05-18 20:02:09 DEBUG BasicThrottler:48 - before sliding: [14, 13, 12, 13, 13, 13, 13, 0, 0, 0]
+2018-05-18 20:02:09 DEBUG BasicThrottler:48 - before sliding: [14, 13, 12, 13, 13, 13, 13, 0, 0, 0]
+2018-05-18 20:02:09 DEBUG BasicThrottler:50 - after sliding: [0, 14, 13, 12, 13, 13, 13, 13, 0, 0]
+2018-05-18 20:02:09 DEBUG BasicThrottler:50 - after sliding: [0, 14, 13, 12, 13, 13, 13, 13, 0, 0]
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 91 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 91 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 92 - true
+2018-05-18 20:02:09 DEBUG BasicThrottlerTest:28 - 92 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 93 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 93 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 94 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 94 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 95 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 95 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 96 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 96 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 97 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 97 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 98 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 98 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 99 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 99 - true
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 100 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 100 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 101 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 101 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 102 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 102 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 103 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 103 - false
+2018-05-18 20:02:10 DEBUG BasicThrottler:48 - before sliding: [9, 14, 13, 12, 13, 13, 13, 13, 0, 0]
+2018-05-18 20:02:10 DEBUG BasicThrottler:48 - before sliding: [9, 14, 13, 12, 13, 13, 13, 13, 0, 0]
+2018-05-18 20:02:10 DEBUG BasicThrottler:50 - after sliding: [0, 9, 14, 13, 12, 13, 13, 13, 13, 0]
+2018-05-18 20:02:10 DEBUG BasicThrottler:50 - after sliding: [0, 9, 14, 13, 12, 13, 13, 13, 13, 0]
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 104 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 104 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 105 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 105 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 106 - false
+2018-05-18 20:02:10 DEBUG BasicThrottlerTest:28 - 106 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 107 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 107 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 108 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 108 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 109 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 109 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 110 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 110 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 111 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 111 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 112 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 112 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 113 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 113 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 114 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 114 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 115 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 115 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 116 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 116 - false
+2018-05-18 20:02:11 DEBUG BasicThrottler:48 - before sliding: [0, 9, 14, 13, 12, 13, 13, 13, 13, 0]
+2018-05-18 20:02:11 DEBUG BasicThrottler:48 - before sliding: [0, 9, 14, 13, 12, 13, 13, 13, 13, 0]
+2018-05-18 20:02:11 DEBUG BasicThrottler:50 - after sliding: [0, 0, 9, 14, 13, 12, 13, 13, 13, 13]
+2018-05-18 20:02:11 DEBUG BasicThrottler:50 - after sliding: [0, 0, 9, 14, 13, 12, 13, 13, 13, 13]
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 117 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 117 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 118 - false
+2018-05-18 20:02:11 DEBUG BasicThrottlerTest:28 - 118 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 119 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 119 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 120 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 120 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 121 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 121 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 122 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 122 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 123 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 123 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 124 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 124 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 125 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 125 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 126 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 126 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 127 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 127 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 128 - false
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 128 - false
+2018-05-18 20:02:12 DEBUG BasicThrottler:48 - before sliding: [0, 0, 9, 14, 13, 12, 13, 13, 13, 13]
+2018-05-18 20:02:12 DEBUG BasicThrottler:48 - before sliding: [0, 0, 9, 14, 13, 12, 13, 13, 13, 13]
+2018-05-18 20:02:12 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 9, 14, 13, 12, 13, 13, 13]
+2018-05-18 20:02:12 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 9, 14, 13, 12, 13, 13, 13]
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 129 - true
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 129 - true
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 130 - true
+2018-05-18 20:02:12 DEBUG BasicThrottlerTest:28 - 130 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 131 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 131 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 132 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 132 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 133 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 133 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 134 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 134 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 135 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 135 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 136 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 136 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 137 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 137 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 138 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 138 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 139 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 139 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 140 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 140 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 141 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 141 - true
+2018-05-18 20:02:13 DEBUG BasicThrottler:48 - before sliding: [13, 0, 0, 9, 14, 13, 12, 13, 13, 13]
+2018-05-18 20:02:13 DEBUG BasicThrottler:48 - before sliding: [13, 0, 0, 9, 14, 13, 12, 13, 13, 13]
+2018-05-18 20:02:13 DEBUG BasicThrottler:50 - after sliding: [0, 13, 0, 0, 9, 14, 13, 12, 13, 13]
+2018-05-18 20:02:13 DEBUG BasicThrottler:50 - after sliding: [0, 13, 0, 0, 9, 14, 13, 12, 13, 13]
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 142 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 142 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 143 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 143 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 144 - true
+2018-05-18 20:02:13 DEBUG BasicThrottlerTest:28 - 144 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 145 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 145 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 146 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 146 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 147 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 147 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 148 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 148 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 149 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 149 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 150 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 150 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 151 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 151 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 152 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 152 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 153 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 153 - true
+2018-05-18 20:02:14 DEBUG BasicThrottler:48 - before sliding: [12, 13, 0, 0, 9, 14, 13, 12, 13, 13]
+2018-05-18 20:02:14 DEBUG BasicThrottler:48 - before sliding: [12, 13, 0, 0, 9, 14, 13, 12, 13, 13]
+2018-05-18 20:02:14 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 0, 0, 9, 14, 13, 12, 13]
+2018-05-18 20:02:14 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 0, 0, 9, 14, 13, 12, 13]
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 154 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 154 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 155 - true
+2018-05-18 20:02:14 DEBUG BasicThrottlerTest:28 - 155 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 156 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 156 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 157 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 157 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 158 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 158 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 159 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 159 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 160 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 160 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 161 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 161 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 162 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 162 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 163 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 163 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 164 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 164 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 165 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 165 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 166 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 166 - true
+2018-05-18 20:02:15 DEBUG BasicThrottler:48 - before sliding: [13, 12, 13, 0, 0, 9, 14, 13, 12, 13]
+2018-05-18 20:02:15 DEBUG BasicThrottler:48 - before sliding: [13, 12, 13, 0, 0, 9, 14, 13, 12, 13]
+2018-05-18 20:02:15 DEBUG BasicThrottler:50 - after sliding: [0, 13, 12, 13, 0, 0, 9, 14, 13, 12]
+2018-05-18 20:02:15 DEBUG BasicThrottler:50 - after sliding: [0, 13, 12, 13, 0, 0, 9, 14, 13, 12]
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 167 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 167 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 168 - true
+2018-05-18 20:02:15 DEBUG BasicThrottlerTest:28 - 168 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 169 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 169 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 170 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 170 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 171 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 171 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 172 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 172 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 173 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 173 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 174 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 174 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 175 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 175 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 176 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 176 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 177 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 177 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 178 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 178 - true
+2018-05-18 20:02:16 DEBUG BasicThrottler:48 - before sliding: [12, 13, 12, 13, 0, 0, 9, 14, 13, 12]
+2018-05-18 20:02:16 DEBUG BasicThrottler:48 - before sliding: [12, 13, 12, 13, 0, 0, 9, 14, 13, 12]
+2018-05-18 20:02:16 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 12, 13, 0, 0, 9, 14, 13]
+2018-05-18 20:02:16 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 12, 13, 0, 0, 9, 14, 13]
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 179 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 179 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 180 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 180 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 181 - true
+2018-05-18 20:02:16 DEBUG BasicThrottlerTest:28 - 181 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 182 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 182 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 183 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 183 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 184 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 184 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 185 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 185 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 186 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 186 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 187 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 187 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 188 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 188 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 189 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 189 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 190 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 190 - true
+2018-05-18 20:02:17 DEBUG BasicThrottler:48 - before sliding: [12, 12, 13, 12, 13, 0, 0, 9, 14, 13]
+2018-05-18 20:02:17 DEBUG BasicThrottler:48 - before sliding: [12, 12, 13, 12, 13, 0, 0, 9, 14, 13]
+2018-05-18 20:02:17 DEBUG BasicThrottler:50 - after sliding: [0, 12, 12, 13, 12, 13, 0, 0, 9, 14]
+2018-05-18 20:02:17 DEBUG BasicThrottler:50 - after sliding: [0, 12, 12, 13, 12, 13, 0, 0, 9, 14]
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 191 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 191 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 192 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 192 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 193 - true
+2018-05-18 20:02:17 DEBUG BasicThrottlerTest:28 - 193 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 194 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 194 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 195 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 195 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 196 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 196 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 197 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 197 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 198 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 198 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 199 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 199 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 200 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 200 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 201 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 201 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 202 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 202 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 203 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 203 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 204 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 204 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 205 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 205 - true
+2018-05-18 20:02:18 DEBUG BasicThrottler:48 - before sliding: [15, 12, 12, 13, 12, 13, 0, 0, 9, 14]
+2018-05-18 20:02:18 DEBUG BasicThrottler:48 - before sliding: [15, 12, 12, 13, 12, 13, 0, 0, 9, 14]
+2018-05-18 20:02:18 DEBUG BasicThrottler:50 - after sliding: [0, 15, 12, 12, 13, 12, 13, 0, 0, 9]
+2018-05-18 20:02:18 DEBUG BasicThrottler:50 - after sliding: [0, 15, 12, 12, 13, 12, 13, 0, 0, 9]
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 206 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 206 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 207 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 207 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 208 - true
+2018-05-18 20:02:18 DEBUG BasicThrottlerTest:28 - 208 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 209 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 209 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 210 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 210 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 211 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 211 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 212 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 212 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 213 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 213 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 214 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 214 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 215 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 215 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 216 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 216 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 217 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 217 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 218 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 218 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 219 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 219 - true
+2018-05-18 20:02:19 DEBUG BasicThrottler:48 - before sliding: [14, 15, 12, 12, 13, 12, 13, 0, 0, 9]
+2018-05-18 20:02:19 DEBUG BasicThrottler:48 - before sliding: [14, 15, 12, 12, 13, 12, 13, 0, 0, 9]
+2018-05-18 20:02:19 DEBUG BasicThrottler:50 - after sliding: [0, 14, 15, 12, 12, 13, 12, 13, 0, 0]
+2018-05-18 20:02:19 DEBUG BasicThrottler:50 - after sliding: [0, 14, 15, 12, 12, 13, 12, 13, 0, 0]
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 220 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 220 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 221 - true
+2018-05-18 20:02:19 DEBUG BasicThrottlerTest:28 - 221 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 222 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 222 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 223 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 223 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 224 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 224 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 225 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 225 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 226 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 226 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 227 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 227 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 228 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 228 - true
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 229 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 229 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 230 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 230 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 231 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 231 - false
+2018-05-18 20:02:20 DEBUG BasicThrottler:48 - before sliding: [9, 14, 15, 12, 12, 13, 12, 13, 0, 0]
+2018-05-18 20:02:20 DEBUG BasicThrottler:48 - before sliding: [9, 14, 15, 12, 12, 13, 12, 13, 0, 0]
+2018-05-18 20:02:20 DEBUG BasicThrottler:50 - after sliding: [0, 9, 14, 15, 12, 12, 13, 12, 13, 0]
+2018-05-18 20:02:20 DEBUG BasicThrottler:50 - after sliding: [0, 9, 14, 15, 12, 12, 13, 12, 13, 0]
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 232 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 232 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 233 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 233 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 234 - false
+2018-05-18 20:02:20 DEBUG BasicThrottlerTest:28 - 234 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 235 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 235 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 236 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 236 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 237 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 237 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 238 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 238 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 239 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 239 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 240 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 240 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 241 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 241 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 242 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 242 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 243 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 243 - false
+2018-05-18 20:02:21 DEBUG BasicThrottler:48 - before sliding: [0, 9, 14, 15, 12, 12, 13, 12, 13, 0]
+2018-05-18 20:02:21 DEBUG BasicThrottler:48 - before sliding: [0, 9, 14, 15, 12, 12, 13, 12, 13, 0]
+2018-05-18 20:02:21 DEBUG BasicThrottler:50 - after sliding: [0, 0, 9, 14, 15, 12, 12, 13, 12, 13]
+2018-05-18 20:02:21 DEBUG BasicThrottler:50 - after sliding: [0, 0, 9, 14, 15, 12, 12, 13, 12, 13]
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 244 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 244 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 245 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 245 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 246 - false
+2018-05-18 20:02:21 DEBUG BasicThrottlerTest:28 - 246 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 247 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 247 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 248 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 248 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 249 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 249 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 250 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 250 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 251 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 251 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 252 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 252 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 253 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 253 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 254 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 254 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 255 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 255 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 256 - false
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 256 - false
+2018-05-18 20:02:22 DEBUG BasicThrottler:48 - before sliding: [0, 0, 9, 14, 15, 12, 12, 13, 12, 13]
+2018-05-18 20:02:22 DEBUG BasicThrottler:48 - before sliding: [0, 0, 9, 14, 15, 12, 12, 13, 12, 13]
+2018-05-18 20:02:22 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 9, 14, 15, 12, 12, 13, 12]
+2018-05-18 20:02:22 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 9, 14, 15, 12, 12, 13, 12]
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 257 - true
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 257 - true
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 258 - true
+2018-05-18 20:02:22 DEBUG BasicThrottlerTest:28 - 258 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 259 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 259 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 260 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 260 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 261 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 261 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 262 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 262 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 263 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 263 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 264 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 264 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 265 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 265 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 266 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 266 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 267 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 267 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 268 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 268 - true
+2018-05-18 20:02:23 DEBUG BasicThrottler:48 - before sliding: [12, 0, 0, 9, 14, 15, 12, 12, 13, 12]
+2018-05-18 20:02:23 DEBUG BasicThrottler:48 - before sliding: [12, 0, 0, 9, 14, 15, 12, 12, 13, 12]
+2018-05-18 20:02:23 DEBUG BasicThrottler:50 - after sliding: [0, 12, 0, 0, 9, 14, 15, 12, 12, 13]
+2018-05-18 20:02:23 DEBUG BasicThrottler:50 - after sliding: [0, 12, 0, 0, 9, 14, 15, 12, 12, 13]
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 269 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 269 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 270 - true
+2018-05-18 20:02:23 DEBUG BasicThrottlerTest:28 - 270 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 271 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 271 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 272 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 272 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 273 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 273 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 274 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 274 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 275 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 275 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 276 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 276 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 277 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 277 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 278 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 278 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 279 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 279 - true
+2018-05-18 20:02:24 DEBUG BasicThrottler:48 - before sliding: [11, 12, 0, 0, 9, 14, 15, 12, 12, 13]
+2018-05-18 20:02:24 DEBUG BasicThrottler:48 - before sliding: [11, 12, 0, 0, 9, 14, 15, 12, 12, 13]
+2018-05-18 20:02:24 DEBUG BasicThrottler:50 - after sliding: [0, 11, 12, 0, 0, 9, 14, 15, 12, 12]
+2018-05-18 20:02:24 DEBUG BasicThrottler:50 - after sliding: [0, 11, 12, 0, 0, 9, 14, 15, 12, 12]
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 280 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 280 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 281 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 281 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 282 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 282 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 283 - true
+2018-05-18 20:02:24 DEBUG BasicThrottlerTest:28 - 283 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 284 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 284 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 285 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 285 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 286 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 286 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 287 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 287 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 288 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 288 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 289 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 289 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 290 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 290 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 291 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 291 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 292 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 292 - true
+2018-05-18 20:02:25 DEBUG BasicThrottler:48 - before sliding: [13, 11, 12, 0, 0, 9, 14, 15, 12, 12]
+2018-05-18 20:02:25 DEBUG BasicThrottler:48 - before sliding: [13, 11, 12, 0, 0, 9, 14, 15, 12, 12]
+2018-05-18 20:02:25 DEBUG BasicThrottler:50 - after sliding: [0, 13, 11, 12, 0, 0, 9, 14, 15, 12]
+2018-05-18 20:02:25 DEBUG BasicThrottler:50 - after sliding: [0, 13, 11, 12, 0, 0, 9, 14, 15, 12]
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 293 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 293 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 294 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 294 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 295 - true
+2018-05-18 20:02:25 DEBUG BasicThrottlerTest:28 - 295 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 296 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 296 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 297 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 297 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 298 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 298 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 299 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:28 - 299 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 0 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 0 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 1 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 1 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 2 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 2 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 3 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 3 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 4 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 4 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 5 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 5 - true
+2018-05-18 20:02:26 DEBUG BasicThrottler:48 - before sliding: [13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:26 DEBUG BasicThrottler:48 - before sliding: [13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:26 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:26 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 6 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 6 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 7 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 7 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 8 - true
+2018-05-18 20:02:26 DEBUG BasicThrottlerTest:36 - 8 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 9 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 9 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 10 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 10 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 11 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 11 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 12 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 12 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 13 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 13 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 14 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 14 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 15 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 15 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 16 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 16 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 17 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 17 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 18 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 18 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 19 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 19 - true
+2018-05-18 20:02:27 DEBUG BasicThrottler:48 - before sliding: [14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:27 DEBUG BasicThrottler:48 - before sliding: [14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:27 DEBUG BasicThrottler:50 - after sliding: [0, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:27 DEBUG BasicThrottler:50 - after sliding: [0, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 20 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 20 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 21 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 21 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 22 - true
+2018-05-18 20:02:27 DEBUG BasicThrottlerTest:36 - 22 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 23 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 23 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 24 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 24 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 25 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 25 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 26 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 26 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 27 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 27 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 28 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 28 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 29 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 29 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 30 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 30 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 31 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 31 - true
+2018-05-18 20:02:28 DEBUG BasicThrottler:48 - before sliding: [12, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:28 DEBUG BasicThrottler:48 - before sliding: [12, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 32 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 32 - true
+2018-05-18 20:02:28 DEBUG BasicThrottler:50 - after sliding: [0, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:28 DEBUG BasicThrottler:50 - after sliding: [0, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 33 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 33 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 34 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 34 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 35 - true
+2018-05-18 20:02:28 DEBUG BasicThrottlerTest:36 - 35 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 36 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 36 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 37 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 37 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 38 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 38 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 39 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 39 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 40 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 40 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 41 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 41 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 42 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 42 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 43 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 43 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 44 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 44 - true
+2018-05-18 20:02:29 DEBUG BasicThrottler:48 - before sliding: [12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:29 DEBUG BasicThrottler:48 - before sliding: [12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:29 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:29 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 45 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 45 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 46 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 46 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 47 - true
+2018-05-18 20:02:29 DEBUG BasicThrottlerTest:36 - 47 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 48 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 48 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 49 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 49 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 50 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 50 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 51 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 51 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 52 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 52 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 53 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 53 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 54 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 54 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 55 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 55 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 56 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 56 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 57 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 57 - true
+2018-05-18 20:02:30 DEBUG BasicThrottler:48 - before sliding: [13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:30 DEBUG BasicThrottler:48 - before sliding: [13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0, 0]
+2018-05-18 20:02:30 DEBUG BasicThrottler:50 - after sliding: [0, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0]
+2018-05-18 20:02:30 DEBUG BasicThrottler:50 - after sliding: [0, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0]
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 58 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 58 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 59 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 59 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 60 - true
+2018-05-18 20:02:30 DEBUG BasicThrottlerTest:36 - 60 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 61 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 61 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 62 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 62 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 63 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 63 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 64 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 64 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 65 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 65 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 66 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 66 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 67 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 67 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 68 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 68 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 69 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 69 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 70 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 70 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 71 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 71 - true
+2018-05-18 20:02:31 DEBUG BasicThrottler:48 - before sliding: [14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0]
+2018-05-18 20:02:31 DEBUG BasicThrottler:48 - before sliding: [14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0, 0]
+2018-05-18 20:02:31 DEBUG BasicThrottler:50 - after sliding: [0, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0]
+2018-05-18 20:02:31 DEBUG BasicThrottler:50 - after sliding: [0, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0]
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 72 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 72 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 73 - true
+2018-05-18 20:02:31 DEBUG BasicThrottlerTest:36 - 73 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 74 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 74 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 75 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 75 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 76 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 76 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 77 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 77 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 78 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 78 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 79 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 79 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 80 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 80 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 81 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 81 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 82 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 82 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 83 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 83 - true
+2018-05-18 20:02:32 DEBUG BasicThrottler:48 - before sliding: [12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0]
+2018-05-18 20:02:32 DEBUG BasicThrottler:48 - before sliding: [12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0, 0]
+2018-05-18 20:02:32 DEBUG BasicThrottler:50 - after sliding: [0, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0]
+2018-05-18 20:02:32 DEBUG BasicThrottler:50 - after sliding: [0, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0]
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 84 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 84 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 85 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 85 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 86 - true
+2018-05-18 20:02:32 DEBUG BasicThrottlerTest:36 - 86 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 87 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 87 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 88 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 88 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 89 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 89 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 90 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 90 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 91 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 91 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 92 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 92 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 93 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 93 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 94 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 94 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 95 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 95 - true
+2018-05-18 20:02:33 DEBUG BasicThrottler:48 - before sliding: [12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0]
+2018-05-18 20:02:33 DEBUG BasicThrottler:48 - before sliding: [12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0, 0]
+2018-05-18 20:02:33 DEBUG BasicThrottler:50 - after sliding: [0, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0]
+2018-05-18 20:02:33 DEBUG BasicThrottler:50 - after sliding: [0, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0]
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 96 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 96 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 97 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 97 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 98 - true
+2018-05-18 20:02:33 DEBUG BasicThrottlerTest:36 - 98 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 99 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 99 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 100 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 100 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 101 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 101 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 102 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 102 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 103 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 103 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 104 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 104 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 105 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 105 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 106 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 106 - true
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 107 - false
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 107 - false
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 108 - false
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 108 - false
+2018-05-18 20:02:34 DEBUG BasicThrottler:48 - before sliding: [11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0]
+2018-05-18 20:02:34 DEBUG BasicThrottler:48 - before sliding: [11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0, 0]
+2018-05-18 20:02:34 DEBUG BasicThrottler:50 - after sliding: [0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0]
+2018-05-18 20:02:34 DEBUG BasicThrottler:50 - after sliding: [0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0]
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 109 - false
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 109 - false
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 110 - false
+2018-05-18 20:02:34 DEBUG BasicThrottlerTest:36 - 110 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 111 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 111 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 112 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 112 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 113 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 113 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 114 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 114 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 115 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 115 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 116 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 116 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 117 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 117 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 118 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 118 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 119 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 119 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 120 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 120 - false
+2018-05-18 20:02:35 DEBUG BasicThrottler:48 - before sliding: [0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0]
+2018-05-18 20:02:35 DEBUG BasicThrottler:48 - before sliding: [0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12, 0]
+2018-05-18 20:02:35 DEBUG BasicThrottler:50 - after sliding: [0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12]
+2018-05-18 20:02:35 DEBUG BasicThrottler:50 - after sliding: [0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12]
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 121 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 121 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 122 - false
+2018-05-18 20:02:35 DEBUG BasicThrottlerTest:36 - 122 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 123 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 123 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 124 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 124 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 125 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 125 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 126 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 126 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 127 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 127 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 128 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 128 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 129 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 129 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 130 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 130 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 131 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 131 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 132 - false
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 132 - false
+2018-05-18 20:02:36 DEBUG BasicThrottler:48 - before sliding: [0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12]
+2018-05-18 20:02:36 DEBUG BasicThrottler:48 - before sliding: [0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15, 12]
+2018-05-18 20:02:36 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15]
+2018-05-18 20:02:36 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15]
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 133 - true
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 133 - true
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 134 - true
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 134 - true
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 135 - true
+2018-05-18 20:02:36 DEBUG BasicThrottlerTest:36 - 135 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 136 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 136 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 137 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 137 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 138 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 138 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 139 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 139 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 140 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 140 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 141 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 141 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 142 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 142 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 143 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 143 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 144 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 144 - true
+2018-05-18 20:02:37 DEBUG BasicThrottler:48 - before sliding: [12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15]
+2018-05-18 20:02:37 DEBUG BasicThrottler:48 - before sliding: [12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14, 15]
+2018-05-18 20:02:37 DEBUG BasicThrottler:50 - after sliding: [0, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14]
+2018-05-18 20:02:37 DEBUG BasicThrottler:50 - after sliding: [0, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14]
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 145 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 145 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 146 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 146 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 147 - true
+2018-05-18 20:02:37 DEBUG BasicThrottlerTest:36 - 147 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 148 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 148 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 149 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 149 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 150 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 150 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 151 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 151 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 152 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 152 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 153 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 153 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 154 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 154 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 155 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 155 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 156 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 156 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 157 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 157 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 158 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 158 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 159 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 159 - true
+2018-05-18 20:02:38 DEBUG BasicThrottler:48 - before sliding: [15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14]
+2018-05-18 20:02:38 DEBUG BasicThrottler:48 - before sliding: [15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9, 14]
+2018-05-18 20:02:38 DEBUG BasicThrottler:50 - after sliding: [0, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9]
+2018-05-18 20:02:38 DEBUG BasicThrottler:50 - after sliding: [0, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9]
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 160 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 160 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 161 - true
+2018-05-18 20:02:38 DEBUG BasicThrottlerTest:36 - 161 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 162 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 162 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 163 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 163 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 164 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 164 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 165 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 165 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 166 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 166 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 167 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 167 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 168 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 168 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 169 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 169 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 170 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 170 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 171 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 171 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 172 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 172 - true
+2018-05-18 20:02:39 DEBUG BasicThrottler:48 - before sliding: [13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9]
+2018-05-18 20:02:39 DEBUG BasicThrottler:48 - before sliding: [13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0, 9]
+2018-05-18 20:02:39 DEBUG BasicThrottler:50 - after sliding: [0, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0]
+2018-05-18 20:02:39 DEBUG BasicThrottler:50 - after sliding: [0, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0]
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 173 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 173 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 174 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 174 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 175 - true
+2018-05-18 20:02:39 DEBUG BasicThrottlerTest:36 - 175 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 176 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 176 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 177 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 177 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 178 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 178 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 179 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 179 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 180 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 180 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 181 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 181 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 182 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 182 - true
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 183 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 183 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 184 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 184 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 185 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 185 - false
+2018-05-18 20:02:40 DEBUG BasicThrottler:48 - before sliding: [10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0]
+2018-05-18 20:02:40 DEBUG BasicThrottler:48 - before sliding: [10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0, 0]
+2018-05-18 20:02:40 DEBUG BasicThrottler:50 - after sliding: [0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0]
+2018-05-18 20:02:40 DEBUG BasicThrottler:50 - after sliding: [0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0]
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 186 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 186 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 187 - false
+2018-05-18 20:02:40 DEBUG BasicThrottlerTest:36 - 187 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 188 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 188 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 189 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 189 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 190 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 190 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 191 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 191 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 192 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 192 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 193 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 193 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 194 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 194 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 195 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 195 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 196 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 196 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 197 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 197 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 198 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 198 - false
+2018-05-18 20:02:41 DEBUG BasicThrottler:48 - before sliding: [0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0]
+2018-05-18 20:02:41 DEBUG BasicThrottler:48 - before sliding: [0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12, 0]
+2018-05-18 20:02:41 DEBUG BasicThrottler:50 - after sliding: [0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12]
+2018-05-18 20:02:41 DEBUG BasicThrottler:50 - after sliding: [0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12]
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 199 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 199 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 200 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 200 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 201 - false
+2018-05-18 20:02:41 DEBUG BasicThrottlerTest:36 - 201 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 202 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 202 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 203 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 203 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 204 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 204 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 205 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 205 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 206 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 206 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 207 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 207 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 208 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 208 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 209 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 209 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 210 - false
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 210 - false
+2018-05-18 20:02:42 DEBUG BasicThrottler:48 - before sliding: [0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12]
+2018-05-18 20:02:42 DEBUG BasicThrottler:48 - before sliding: [0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11, 12]
+2018-05-18 20:02:42 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11]
+2018-05-18 20:02:42 DEBUG BasicThrottler:50 - after sliding: [0, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11]
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 211 - true
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 211 - true
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 212 - true
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 212 - true
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 213 - true
+2018-05-18 20:02:42 DEBUG BasicThrottlerTest:36 - 213 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 214 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 214 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 215 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 215 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 216 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 216 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 217 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 217 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 218 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 218 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 219 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 219 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 220 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 220 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 221 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 221 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 222 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 222 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 223 - false
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 223 - false
+2018-05-18 20:02:43 DEBUG BasicThrottler:48 - before sliding: [12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11]
+2018-05-18 20:02:43 DEBUG BasicThrottler:48 - before sliding: [12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13, 11]
+2018-05-18 20:02:43 DEBUG BasicThrottler:50 - after sliding: [0, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13]
+2018-05-18 20:02:43 DEBUG BasicThrottler:50 - after sliding: [0, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13]
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 224 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 224 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 225 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 225 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 226 - true
+2018-05-18 20:02:43 DEBUG BasicThrottlerTest:36 - 226 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 227 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 227 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 228 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 228 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 229 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 229 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 230 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 230 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 231 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 231 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 232 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 232 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 233 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 233 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 234 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 234 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 235 - false
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 235 - false
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 236 - false
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 236 - false
+2018-05-18 20:02:44 DEBUG BasicThrottler:48 - before sliding: [11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13]
+2018-05-18 20:02:44 DEBUG BasicThrottler:48 - before sliding: [11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13, 13]
+2018-05-18 20:02:44 DEBUG BasicThrottler:50 - after sliding: [0, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13]
+2018-05-18 20:02:44 DEBUG BasicThrottler:50 - after sliding: [0, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13]
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 237 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 237 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 238 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 238 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 239 - true
+2018-05-18 20:02:44 DEBUG BasicThrottlerTest:36 - 239 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 240 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 240 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 241 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 241 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 242 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 242 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 243 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 243 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 244 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 244 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 245 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 245 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 246 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 246 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 247 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 247 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 248 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 248 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 249 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 249 - true
+2018-05-18 20:02:45 DEBUG BasicThrottler:48 - before sliding: [13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13]
+2018-05-18 20:02:45 DEBUG BasicThrottler:48 - before sliding: [13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14, 13]
+2018-05-18 20:02:45 DEBUG BasicThrottler:50 - after sliding: [0, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14]
+2018-05-18 20:02:45 DEBUG BasicThrottler:50 - after sliding: [0, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14]
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 250 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 250 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 251 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 251 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 252 - true
+2018-05-18 20:02:45 DEBUG BasicThrottlerTest:36 - 252 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 253 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 253 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 254 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 254 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 255 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 255 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 256 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 256 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 257 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 257 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 258 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 258 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 259 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 259 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 260 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 260 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 261 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 261 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 262 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 262 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 263 - false
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 263 - false
+2018-05-18 20:02:46 DEBUG BasicThrottler:48 - before sliding: [13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14]
+2018-05-18 20:02:46 DEBUG BasicThrottler:48 - before sliding: [13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13, 14]
+2018-05-18 20:02:46 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13]
+2018-05-18 20:02:46 DEBUG BasicThrottler:50 - after sliding: [0, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13]
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 264 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 264 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 265 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 265 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 266 - true
+2018-05-18 20:02:46 DEBUG BasicThrottlerTest:36 - 266 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 267 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 267 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 268 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 268 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 269 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 269 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 270 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 270 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 271 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 271 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 272 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 272 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 273 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 273 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 274 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 274 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 275 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 275 - true
+2018-05-18 20:02:47 DEBUG BasicThrottler:48 - before sliding: [12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13]
+2018-05-18 20:02:47 DEBUG BasicThrottler:48 - before sliding: [12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12, 13]
+2018-05-18 20:02:47 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12]
+2018-05-18 20:02:47 DEBUG BasicThrottler:50 - after sliding: [0, 12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12]
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 276 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 276 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 277 - true
+2018-05-18 20:02:47 DEBUG BasicThrottlerTest:36 - 277 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 278 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 278 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 279 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 279 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 280 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 280 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 281 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 281 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 282 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 282 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 283 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 283 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 284 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 284 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 285 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 285 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 286 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 286 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 287 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 287 - true
+2018-05-18 20:02:48 DEBUG BasicThrottler:48 - before sliding: [12, 12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12]
+2018-05-18 20:02:48 DEBUG BasicThrottler:48 - before sliding: [12, 12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13, 12]
+2018-05-18 20:02:48 DEBUG BasicThrottler:50 - after sliding: [0, 12, 12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13]
+2018-05-18 20:02:48 DEBUG BasicThrottler:50 - after sliding: [0, 12, 12, 13, 13, 11, 12, 0, 0, 10, 13, 15, 12, 0, 0, 11, 12, 12, 14, 13]
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 288 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 288 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 289 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 289 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 290 - true
+2018-05-18 20:02:48 DEBUG BasicThrottlerTest:36 - 290 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 291 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 291 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 292 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 292 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 293 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 293 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 294 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 294 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 295 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 295 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 296 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 296 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 297 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 297 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 298 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 298 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 299 - true
+2018-05-18 20:02:49 DEBUG BasicThrottlerTest:36 - 299 - true
